@@ -1,0 +1,5 @@
+pygments: true
+permalink: '/:title'
+markdown: kramdown
+ftp_host: johannkerr.com
+ftp_dir: /
